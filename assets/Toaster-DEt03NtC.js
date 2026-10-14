@@ -1,0 +1,1 @@
+import{l as s,j as e,m as n,n as i}from"./index-DDl5KSZY.js";function r(){const{isDark:o,notification:t}=s();return e.jsx(n,{theme:o?"dark":"light",closeButton:!0,offset:"16px",position:t?.position||i?.notification?.position,expand:t?.isExpanded||i?.notification?.isExpanded,visibleToasts:t?.visibleToasts||i?.notification?.visibleToasts,richColors:!0})}export{r as default};

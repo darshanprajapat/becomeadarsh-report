@@ -1,0 +1,1 @@
+import{j as r}from"./index-DDl5KSZY.js";import{A as e}from"./AhevalReportPage-BDmYNiuZ.js";import"./Page-CIFlnpmi.js";import"./ahevalStore-BHo_n0TY.js";function i(){return r.jsx(e,{sourceLevels:["nirikshak"]})}export{i as default};
